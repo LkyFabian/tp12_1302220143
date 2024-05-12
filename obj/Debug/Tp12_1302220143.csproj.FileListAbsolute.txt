@@ -1,0 +1,10 @@
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\bin\Debug\Tp12_1302220143.exe.config
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\bin\Debug\Tp12_1302220143.exe
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\bin\Debug\Tp12_1302220143.pdb
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.csproj.AssemblyReference.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.Form1.resources
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.Properties.Resources.resources
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.csproj.GenerateResource.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.csproj.CoreCompileInputs.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.exe
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\obj\Debug\Tp12_1302220143.pdb

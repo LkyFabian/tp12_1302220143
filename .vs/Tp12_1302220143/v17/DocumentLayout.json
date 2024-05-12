@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D777213F-D5A5-454E-B0E6-3566D9E5D287}|UnitTestProject\\UnitTestProject.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D777213F-D5A5-454E-B0E6-3566D9E5D287}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Tp12_1302220143||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D777213F-D5A5-454E-B0E6-3566D9E5D287}|UnitTestProject\\UnitTestProject.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\unittestproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D777213F-D5A5-454E-B0E6-3566D9E5D287}|UnitTestProject\\UnitTestProject.csproj|solutionrelative:unittestproject\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6822C738-B2BB-4F95-AA28-99903101BEE4}|Tp12_1302220143.csproj|c:\\fabian\\semester 4\\konstruksi perangkat lunak kpl\\tp12_1302220143\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\UnitTestProject\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\UnitTestProject\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "UnitTestProject\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:33:46.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tp12_1302220143",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Tp12_1302220143.csproj",
+              "RelativeDocumentMoniker": "Tp12_1302220143.csproj",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Tp12_1302220143.csproj",
+              "RelativeToolTip": "Tp12_1302220143.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-12T17:19:58.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\UnitTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\UnitTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:16:01.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:52:30.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:50:44.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:50:31.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Fabian\\Semester 4\\Konstruksi Perangkat Lunak KPL\\Tp12_1302220143\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:50:23.848Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Fabian\Semester 4\Konstruksi Perangkat Lunak KPL\Tp12_1302220143\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
